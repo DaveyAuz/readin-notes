@@ -1,5 +1,5 @@
-###### reading-notes
-Reading Journal For Code Fellows.
+# reading-notes
+##Reading Journal For Code Fellows.
 <h1>Hello, My name is Davey & I Love:</h1>
 <ul>
   <li>Playing Guitar</li>
