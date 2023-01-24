@@ -1,6 +1,7 @@
 # reading-notes
 ##Reading Journal For Code Fellows.
-<h1>Hello, My name is Davey & I Love:</h1>
+<h1>Hello, My name is Davey, I grew up traveling the world with my family, 
+    Grew up Outside Chicago & Cronulla Beach Australia & I Love:</h1>
 <ul>
   <li>Playing Guitar</li>
   <li>Singing</li>
