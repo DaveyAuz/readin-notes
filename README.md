@@ -1,7 +1,7 @@
 # reading-notes
 ##Reading Journal For Code Fellows.
 ###<h1>Hello, My name is Davey</h1>
-I grew up traveling the world with my family, Grew up Outside Chicago <:chicago_flag:/> & Cronulla Beach Australia. After High School I joined the US Marine Corps where I was a CBRN Defense Specialist. I was stationed at a special react unit outside DC where I was attached to the Recon Platoon. Eventually I became a Recon Team Leader and Went to Nuclear weapons school in Kirtland AFB in Albuquerque & I Love:</h1>
+I grew up traveling the world with my family, Grew up Outside Chicago <h1>:chicago_flag:</h1> & Cronulla Beach Australia. After High School I joined the US Marine Corps where I was a CBRN Defense Specialist. I was stationed at a special react unit outside DC where I was attached to the Recon Platoon. Eventually I became a Recon Team Leader and Went to Nuclear weapons school in Kirtland AFB in Albuquerque & I Love:</h1>
 <ul>
   <li>Playing Guitar</li>
   <li>Singing</li>
