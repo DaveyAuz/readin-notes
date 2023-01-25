@@ -10,9 +10,4 @@ The growth mindset is something I realized many years ago actually. That I used 
     2) Always learn from mistakes.
     3) Never be the smartest person in the room.
 
-
-
-
-
-
-[HOME](/README.md)
+[HOME](../README.md)
