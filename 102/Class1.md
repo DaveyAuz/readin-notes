@@ -15,4 +15,4 @@ The growth mindset is something I realized many years ago actually. That I used 
 
 
 
-[HOME](./README.md)
+[HOME](/README.md)
