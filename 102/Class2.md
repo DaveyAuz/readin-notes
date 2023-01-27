@@ -4,6 +4,10 @@ Linux Brings me back to the days when I was a kid. It really brings me a sense o
 
 Using Ubuntu Has been really fun. It is a great Linux Terminal program, and using it with VSCode has been a learning curve but one that has been really enjoyable. The difference between VS code which is an IDE Text Editor, which stands for integrated development environment. It means that you can see your code changing in real time while you work on it. While Im typing this now I can see it changing. A Basic Text Editor would be like Windows Notepad or even Windows Notepad++.
 
+[How to run Git on a Terminal](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)
+
+
+
 [Code 102 HomePage](https://canvas.instructure.com/courses/5949604)
 
 [HOME](../README.md)
