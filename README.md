@@ -31,7 +31,7 @@ I grew up traveling the world with my family, Grew up Outside Chicago & Cronulla
 >### Class 102
 
 * [Learning MARKDOWN](./102/Class1.md)
-* [Class 2](./102/Class2.md)
+* [The Coders Computer](./102/Class2.md)
 * [Class 3](./102/Class3.md)
 * [Class 4](./102/Class4.md)
 * [Class 5](./102/Class5.md)
