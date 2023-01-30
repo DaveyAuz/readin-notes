@@ -1,5 +1,14 @@
-# Reading-Notes lab 4
+# Reading-Notes Structure web pages with HTML
 
- 
+HTML stands for Hypertext markup language. It is the basic building block of the internet. Reading the history of HTML on W3Schools.com was really interesting to me. "1989: Tim Berners-Lee invents the Web with HTML as its publishing language. The World Wide Web began life in the place where you would least expect it: at CERN, the European Laboratory for Particle Physics in Geneva, Switzerland." This was absolutely mind blowing to me. Because before deciding to try coding I was planning on finishing my Nuclear Physics Degree. Which to be honest, would've been way more daunting when it comes to the mathematical equations. 
+"Tim Berners-Lee is the inventor of the Web. In 1989, Tim was working in a computing services section of CERN when he came up with the concept; at the time he had no idea that it would be implemented on such an enormous scale. Particle physics research often involves collaboration among institutes from all over the world. Tim had the idea of enabling researchers from remote sites in the world to organize and pool together information. But far from simply making available a large number of research documents as files that could be downloaded to individual computers, he suggested that you could actually link the text in the files themselves.
+
+In other words, there could be cross-references from one research paper to another. This would mean that while reading one research paper, you could quickly display part of another paper that holds directly relevant text or diagrams. Documentation of a scientific and mathematical nature would thus be represented as a "web" of information held in electronic form on computers across the world. This, Tim thought, could be done by using some form of hypertext, some way of linking documents together by using buttons on the screen, which you simply clicked on to jump from one paper to another. Before coming to CERN, Tim had already worked on document production and text processing, and had developed his first hypertext system, `Enquire', in 1980 for his own personal use. Tim's prototype Web browser on the NeXT computer came out in 1990."
+Citation: 
+>Raggett, Dave, et al. "A History of HTML." W3school, 1 Jan. 1997, www.w3.org/People/Raggett/book4/ch02.html. Accessed 29 Jan. 2023.
+
+HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li>
+
+All these different elements created the building blocks for everything we see on websites and smartphones today. Its fitting they are called 'elements' because just like chemical elements in chemistry and biology, they make up everything we use digitally on the web today.
 
 [HOME](../README.md)
