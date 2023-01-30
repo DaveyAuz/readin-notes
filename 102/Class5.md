@@ -10,6 +10,8 @@ CSS stands for Cascading Style Sheets. Its a specific rule-based coding language
    * { color : red; font-size:36px}. 
 
 
-The selector is the HTML element you want to style. The declaration block includes a CSS property name and a corresponding value, separated by a colon. The CSS code is written in a separate file from the HTML index to keep the codes separate in order to make the workflow more streamlined and easier to work with. It would be a nightmare if you had to enter in CSS Rules for each block of HTML code instead of designating a selector. 
+The selector is the HTML element you want to style. The declaration block includes a CSS property name and a corresponding value, separated by a colon. The CSS code is written in a separate file from the HTML index to keep the codes separate in order to make the workflow more streamlined and easier to work with. It would be a nightmare if you had to enter in CSS Rules for each block of HTML code instead of designating a selector. The possibilities of CSS are pretty extensive, and the languages is broken down into modules (eg Fonts, Backgrounds, Borders, Colors etc).
+The CSS Syntax can also be used for Animation which is something I would really like to learn on my own time. 
+
 
 [HOME](../README.md)
