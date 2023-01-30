@@ -36,8 +36,8 @@ I grew up traveling the world with my family, Grew up Outside Chicago & Cronulla
 * [Structure web pages with HTML](./102/Class4.md)
 * [Design web pages with CSS](./102/Class5.md)
 * [Dynamic web pages with JavaScript](./102/Class6.md)
-* [Class 7](./102/Class7.md)
-* [Class 8](./102/Class8.md)
+* [Programming with JavaScript](./102/Class7.md)
+* [Operators and Loops](./102/Class8.md)
 
 >### Class 201
 
