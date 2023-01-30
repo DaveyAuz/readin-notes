@@ -34,7 +34,7 @@ I grew up traveling the world with my family, Grew up Outside Chicago & Cronulla
 * [The Coders Computer](./102/Class2.md)
 * [Revisions & The Cloud](./102/Class3.md)
 * [Structure web pages with HTML](./102/Class4.md)
-* [Class 5](./102/Class5.md)
+* [Design web pages with CSS](./102/Class5.md)
 * [Class 6](./102/Class6.md)
 * [Class 7](./102/Class7.md)
 * [Class 8](./102/Class8.md)
