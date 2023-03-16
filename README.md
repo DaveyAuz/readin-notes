@@ -30,7 +30,7 @@ I grew up traveling the world with my family, Grew up Outside Chicago & Cronulla
 
 >### Code 102 - Intro to Software Development
 
-* [Learning MARKDOWN](./102/Class1.md)
+* [gi](./102/Class1.md)
 * [The Coders Computer](./102/Class2.md)
 * [Revisions & The Cloud](./102/Class3.md)
 * [Structure web pages with HTML](./102/Class4.md)
