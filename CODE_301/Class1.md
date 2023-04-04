@@ -35,14 +35,14 @@ Component-based architecture focuses on the decomposition of the design into ind
 
 Overall, CBA promotes modular design and development, which can lead to more efficient and effective software development.
 
-> 4)What is “props” short for?
+> 4) What is “props” short for?
     In React, "props" is short for "properties". Props are a mechanism for passing data from a parent component to a child component in a React application.
 
-> 5)How are props used in React?
+> 5) How are props used in React?
     Props are passed as an object of key-value pairs and are read-only, meaning that they cannot be modified by the child component. The child component can access the props passed down from the parent component and use them to render its output.
     Using props allows for a more modular and reusable component-based architecture in React, as components can be composed and reused with different props to create different output. Props can also be used to customize the behavior of a component, allowing for greater flexibility in the application.
-    
-> 6)What is the flow of props?
+
+> 6) What is the flow of props?
     In React, props flow in a unidirectional manner, from parent components to child components.
 
 Here is the typical flow of props in a React application:
