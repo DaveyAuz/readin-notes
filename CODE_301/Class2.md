@@ -13,11 +13,11 @@ Props can be used to pass various types of data between components, such as:
 2) What is the big difference between props and state?
 In programming, both "props" and "state" are used to manage data in a software system, but they serve different purposes and have different characteristics.
 
-Props are short for properties, and they are used to pass data from one component to another in a software system. Props are passed down from a parent component to a child component and are read-only, meaning that they cannot be modified by the child component that receives them. Props are typically used to provide data that a child component needs to render or to trigger events that a parent component needs to respond to.
+    Props are short for properties, and they are used to pass data from one component to another in a software system. Props are passed down from a parent component to a child component and are read-only, meaning that they cannot be modified by the child component that receives them. Props are typically used to provide data that a child component needs to render or to trigger events that a parent component needs to respond to.
 
-On the other hand, state is used to manage data within a component itself. State is mutable, meaning that it can be modified by the component that owns it. When the state of a component changes, the component will re-render to reflect the new state. State is typically used to keep track of information that is specific to a component and that may change over time, such as the current user input, the state of a toggle switch, or the items in a shopping cart.
+    On the other hand, state is used to manage data within a component itself. State is mutable, meaning that it can be modified by the component that owns it. When the state of a component changes, the component will re-render to reflect the new state. State is typically used to keep track of information that is specific to a component and that may change over time, such as the current user input, the state of a toggle switch, or the items in a shopping cart.
 
-So, the big difference between props and state is that props are used to pass data down from a parent component to a child component, while state is used to manage data within a component itself. Props are read-only and cannot be modified by the child component, while state is mutable and can be updated by the component that owns it.
+    So, the big difference between props and state is that props are used to pass data down from a parent component to a child component, while state is used to manage data within a component itself. Props are read-only and cannot be modified by the child component, while state is mutable and can be updated by the component that owns it.
 
 3) When do we re-render our application?
 In programming, a re-render happens when a component in a software system updates its output to reflect changes in its data or in the data of its child components. Re-rendering is a process that involves updating the component's virtual representation and then rendering the updated output on the screen.
@@ -32,7 +32,7 @@ In programming, a re-render happens when a component in a software system update
 
     * Changes in the application's global state: If the application's global state changes, all components that depend on that state will re-render to reflect the new state.
 
-Re-rendering can be an expensive operation in terms of performance, so it's important to avoid unnecessary re-renders whenever possible. To optimize performance, developers can use techniques such as memoization, shouldComponentUpdate method, PureComponent, and React.memo to reduce the number of re-renders and improve the overall performance of the application.
+    Re-rendering can be an expensive operation in terms of performance, so it's important to avoid unnecessary re-renders whenever possible. To optimize performance, developers can use techniques such as memoization, shouldComponentUpdate method, PureComponent, and React.memo to reduce the number of re-renders and improve the overall performance of the application.
 
 4) What are some examples of things that we could store in state?
 In programming, the state is used to manage data within a component in a software system. The specific data that is stored in the state of a component depends on the needs of the component and the requirements of the application. Here are some examples of things that could be stored in state:

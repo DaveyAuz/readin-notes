@@ -1,9 +1,9 @@
 # Reading-Notes Class 1
 >
-> 1)What Is a "Component?"
+> 1) What Is a "Component?"
 Component-based architecture focuses on the decomposition of the design into individual functional or logical components that represent well-defined communication interfaces containing methods, events, and properties. It provides a higher level of abstraction and divides the problem into sub-problems, each associated with component partitions.
 
-> 2)What are the characteristics of a component?
+> 2) What are the characteristics of a component?
     * Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 
     * Replaceable − Components may be freely substituted with other similar components.
@@ -16,7 +16,7 @@ Component-based architecture focuses on the decomposition of the design into ind
 
     * Independent − Components are designed to have minimal dependencies on other components.
 
-> 3)What are the advantages of using component-based architecture?
+> 3) What are the advantages of using component-based architecture?
     Component-based architecture (CBA) is a software engineering approach that emphasizes the creation of complex systems by breaking them down into smaller, modular, and reusable components. Some advantages of using CBA include:
 
     * Reusability: Components can be easily reused across multiple applications or systems, saving time and effort in development.
