@@ -71,11 +71,13 @@ const,      float,       native,     super,       while.
 
   To print words to the console in Java, you can use the System.out.println() statement.
 
+```java
     public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, world!");
     }
 }
+```
 
 When you run this program, it will print the string "Hello, world!" to the console. The println() method adds a newline character at the end of the output, so each new output will be printed on a new line.
 
