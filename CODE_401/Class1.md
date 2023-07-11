@@ -44,7 +44,7 @@ So, in summary, Java code is compiled into bytecode and executed on a JVM, while
 
 But Essentially, they both are ways to use human language, symbols and numbers to translate data into binary format so that the computer or server can read and interpret it.
 
-></li> Does code compiling mean that it works correctly?
+><li> Does code compiling mean that it works correctly?
 Not necessarily. Code compiling is the process of translating human-readable source code into machine-readable code that can be executed by a computer. The compiler checks the syntax and structure of the code to ensure it meets the requirements of the programming language, and generates an executable binary file.
 
 However, even if the code compiles without errors, it does not guarantee that it will work correctly. There may still be logical errors or bugs in the code that can cause the program to behave unexpectedly or produce incorrect results.
