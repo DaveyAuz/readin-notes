@@ -42,7 +42,7 @@ In a while loop, a loop counter is typically declared outside the loop, before t
 </li>
 
 
-></li> Explain the difference between While and Do-While loops.
+><li> Explain the difference between While and Do-While loops.
 In Java, both while and do-while loops are used to execute a block of code repeatedly until a certain condition is met. The main difference between them is when the condition is checked.
 
 The while loop first checks the condition before executing the block of code. If the condition is true, the block of code is executed, and the loop continues. If the condition is false, the loop is terminated. The do-while loop, on the other hand, first executes the block of code, and then checks the condition. If the condition is true, the loop continues, and if it's false, the loop is terminated. 
