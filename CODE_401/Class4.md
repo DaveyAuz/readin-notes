@@ -101,7 +101,7 @@ The significance of a constructor for a class in Java is that it performs the fo
 In summary, a constructor is a key part of a class in Java, as it initializes objects and sets their initial state. It also enables encapsulation and inheritance and provides a simple interface for creating objects.
 </li>
 
-></li> Write the declaration statement for a class named “Student” (do not fill it with fields and methods).
+><li> Write the declaration statement for a class named “Student” (do not fill it with fields and methods).
 
 ```java
 public class Student {
