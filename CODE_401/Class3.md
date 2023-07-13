@@ -129,7 +129,7 @@ Java text scanning programs can be used to detect fraudulent activity, such as p
 Overall, Java text scanning programs can help businesses and organizations improve efficiency, accuracy, and productivity by automating the process of analyzing and understanding written language.
 </li>
 
-></li> What is input from a Scanner broken down into?
+><li> What is input from a Scanner broken down into?
 In Java, input from a Scanner object is broken down into tokens. A token is a sequence of characters that represents a single element of input. By default, the Scanner class breaks input into tokens by whitespace, which includes spaces, tabs, and line breaks.
 
 For example, if the input "Hello World" is passed to a Scanner object, it will be broken down into two tokens: "Hello" and "World". These tokens can then be processed or manipulated as needed by the Java program.
