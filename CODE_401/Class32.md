@@ -30,25 +30,6 @@ In summary, a RESTful API follows a set of principles that promote simplicity, s
 
 </li>
 
-><li> 
-
-</li>
-
-><li>
-
-</li>
-
-><li>
-
-</li>
-
-><li>
-
-</li>
-
-><li>
-
-</li>
-
 <ol>
+
 [HOME](../README.md)
