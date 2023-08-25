@@ -110,6 +110,7 @@ I grew up traveling the world with my family, Grew up Outside Chicago & Cronulla
 * [Class 32](./CODE_401/Class32.md)
 * [Class 33](./CODE_401/Class33.md)
 * [Class 34](./CODE_401/Class34.md)
+* [Graphs Roadtrip Analogy](./CODE_401/GraphsAnalogy.md)
 * [Class 35](./CODE_401/Class35.md)
 * [Class 36](./CODE_401/Class36.md)
 * [Class 37](./CODE_401/Class37.md)
@@ -120,3 +121,5 @@ I grew up traveling the world with my family, Grew up Outside Chicago & Cronulla
 * [Class 42](./CODE_401/Class42.md)
 * [Class 43](./CODE_401/Class43.md)
 * [Class 44](./CODE_401/Class44.md)
+* [Practicing In The Terminal](./CODE_401/PracticingInTheTerminal.md)
+* [TheGrowthMindset](./CODE_401/TheGrowthMindset.md) 
