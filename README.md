@@ -111,7 +111,5 @@ I grew up traveling the world with my family, Grew up Outside Chicago & Cronulla
 * [Code Of Ethics In Software Development](./CODE_401/Code_Of_Ethics.md)
 * [Class 41](./CODE_401/Class41.md)
 * [Class 42](./CODE_401/Class42.md)
-* [Class 43](./CODE_401/Class43.md)
-* [Class 44](./CODE_401/Class44.md)
 * [Practicing In The Terminal](./CODE_401/PracticingInTheTerminal.md)
 * [TheGrowthMindset](./CODE_401/TheGrowthMindset.md) 
