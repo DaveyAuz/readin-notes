@@ -2,7 +2,7 @@
 
 Im not going to lie, loops and operators threw me for a loop... Pun intended! Its definitely something I will need wo work on a lot more in 201 and get way more comfortable with. 
 . 
-The equality and relational operators determine if one operand is greater than, less than, equal to, or not equal to another operand. The majority of these operators will probably look familiar to you as well. Keep in mind that you must use "==", not "=", when testing if two primitive values are equal.THe Following is a function loop from Oracle who invented the JavaScript Language.
+The equality and relational operators determine if one operand is greater than, less than, equal to, or not equal to another operand. The majority of these operators will probably look familiar to you as well. Keep in mind that you must use "==", not "=", when testing if two primitive values are equal. The Following is a function loop from Oracle who invented the JavaScript Language.
 
 ==      equal to
 !=      not equal to
