@@ -23,7 +23,7 @@ You don’t need fancy editors or apps — Markdown files can be opened with any
 ### Headings
 
 In Markdown, headings are created by using `#` for the largest heading and more `#` for smaller headings:
-```markdown
+
 # Heading 1 (largest)
 ## Heading 2
 ### Heading 3
